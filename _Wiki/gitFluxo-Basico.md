@@ -35,8 +35,8 @@
 
     Após "coisas feitas" deixarem de ser um rascunho e se tornarem parte do projeto, ou seja, faz parte da folha principal do fichário, é a hora de buscar essas atualizações na MAIN.
 
-    Pull from origin/Main da nuvem para sua Main
-    Pull from Main para sua Branch
+    Fetch from origin/Main da nuvem para sua Main
+    Fetch from Main para sua Branch
         Ou seja:
             sua Main, tá desatulizada, ai atualiza.
             Depois que a sua ta atualizada, envia para seu rascunho e continua.
