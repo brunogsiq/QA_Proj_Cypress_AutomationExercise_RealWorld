@@ -36,3 +36,5 @@
     Após "coisas feitas" deixarem de ser um rascunho e se tornarem parte do projeto, ou seja, faz parte da folha principal do fichário, é a hora de buscar essas atualizações na MAIN.
 
     O comando é o atualizar (canto inferior esquerdo) ou Pull from origin/Main da nuvem.
+
+    Creio que este é o básico de um fluxo.
