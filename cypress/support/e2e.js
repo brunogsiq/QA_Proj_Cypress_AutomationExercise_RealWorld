@@ -31,6 +31,6 @@ if (Cypress.config("hideXHRInCommandLog"))
     }
 };
 
-Cypress.ElementSelector= {
-    defaults: ['data-cy', 'data-test', 'data-testid', 'data-qa', 'id', 'class', 'attributes', 'tag', 'nth-child']
-};
+Cypress.ElementSelector.defaults({
+  selectorPriority: ['data-cy', 'data-test', 'data-testid', 'id', 'class', 'attributes', 'tag', 'nth-child']
+})
