@@ -1,7 +1,3 @@
-Perfeito 🚀 Vou unir o **primeiro texto que você havia feito (com as metáforas de fichário/rascunho)** com este último **passo a passo no VS Code**, para que fique uma documentação **clara, sociável e didática**.
-
----
-
 # 📘 Fluxo de Branches e Pull Requests no VS Code
 
 ## 🌿 Branch (página de rascunho do fichário)
