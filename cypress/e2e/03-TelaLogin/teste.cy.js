@@ -1,7 +1,7 @@
 /// <reference types="cypress"/>
 
-describe('template spec', () => {
+describe('Teste de envio', () => {
   it('passes', () => {
-    cy.visit('https://example.cypress.io')
+    cy.visit('/')
   })
 })
